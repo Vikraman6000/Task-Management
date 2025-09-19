@@ -1,0 +1,16 @@
+{
+  "development": {
+    "username": "vikram",
+    "password": "v123456789",
+    "database": "task_management",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "vikram",
+    "password": "v123456789",
+    "database": "task_management_final",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
